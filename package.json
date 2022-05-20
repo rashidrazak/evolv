@@ -1,0 +1,19 @@
+{
+  "name": "evolv",
+  "version": "0.1.0",
+  "description": "A progressive Fastify boilerplate using TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rashidrazak/evolv.git"
+  },
+  "author": "Rashid Razak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rashidrazak/evolv/issues"
+  },
+  "homepage": "https://github.com/rashidrazak/evolv#readme"
+}
